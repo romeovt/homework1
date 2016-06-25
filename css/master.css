@@ -1,0 +1,17 @@
+#wrapper{
+  width: 1040px;
+  padding: 0px 0 0px 0;
+  margin-left: 10%;
+}
+
+.main{
+  margin-left: 10%;
+  font-size: 20px;
+}
+.pic{
+  text-align: center;
+  /*margin-left: 20px;*/
+}
+hr{
+  width: 85%;
+}
